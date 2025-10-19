@@ -97,6 +97,28 @@ git push
 
 ---
 
+## 🤖 Pro Tip: Use Your LLM to Trim the Fat
+
+**Here's the secret:** Upload the entire Clew Forge repo + your project idea to Claude, ChatGPT, or your LLM of choice, and ask it to recommend which docs you actually need.
+
+```
+"I'm building [your idea] in [timeframe].
+I have this framework with 20+ docs.
+Which ones should I use? Which can I skip?
+Here's the full repo: [paste or upload]"
+```
+
+Your LLM will:
+- ✅ Analyze your situation (solo vs team, timeframe, complexity)
+- ✅ Recommend Quick/Standard/Full mode
+- ✅ Tell you which docs are essential
+- ✅ Guide you through execution
+- ✅ Adapt as you build
+
+**This is the whole point of Clew Forge.** It's not just a framework—it's a framework designed to work with AI. Your LLM becomes your co-pilot, helping you stay organized while moving fast.
+
+---
+
 ## 🎯 Quick Mode: Start with These 3 Files
 
 All you need for a 48-hour hackathon or weekend project:
@@ -445,6 +467,19 @@ Clew Forge is open to contributions. Pick a difficulty level:
 
 ---
 
+## Acknowledgments
+
+Clew Forge was built with inspiration and support from the community:
+
+**Special Thanks to:**
+- **Ed & AI Masters Community** (https://www.skool.com/ai-masters-community) - Provided foundational frameworks and best practices for AI-assisted development
+- **Claude AI** (Anthropic) - Architecture design, documentation, and refactoring
+- **ChatGPT** (OpenAI) - Ideation and alternative approaches
+
+See [ACKNOWLEDGMENTS.md](./ACKNOWLEDGMENTS.md) for full credits.
+
+---
+
 ## License
 
 Clew Forge is released under the Apache 2.0 License. See [LICENSE.md](./LICENSE.md) for details.
@@ -469,39 +504,5 @@ Pick your starting point:
 
 ---
 
-# Acknowledgments
-
-Clew Forge was built with inspiration and guidance from the community. We're grateful for:
-
-## Special Thanks
-
-**Ed & AI Masters Community** (https://www.skool.com/ai-masters-community)
-- Provided foundational frameworks and best practices for AI-assisted development
-- Inspired the structured approach to documentation and project organization
-- Free resources that made this project possible
-
-## Development Assistance
-
-This project was built with help from:
-- **Claude AI** (Anthropic) - Architecture design, documentation, code review, and refactoring
-- **ChatGPT** (OpenAI) - Ideation, feature planning, and alternative approaches
-
-## Open Source Community
-
-Built on principles from:
-- Best practices in indie development and hackathon culture
-- Open source project management approaches
-- Community-driven framework design
-
-## Contributors
-
-Thanks to everyone who'll use Clew Forge and contribute back to make it better.
-
----
-
-**Philosophy:** Where your reasoning threads become real artifacts.
-Built by makers, for makers. Ship something real. 🚀
----
-
 *Last updated: October 2025*
-*Version: 1.1*
+*Version: 1.2.1*
