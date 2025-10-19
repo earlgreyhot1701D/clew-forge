@@ -469,5 +469,39 @@ Pick your starting point:
 
 ---
 
+# Acknowledgments
+
+Clew Forge was built with inspiration and guidance from the community. We're grateful for:
+
+## Special Thanks
+
+**Ed & AI Masters Community** (https://www.skool.com/ai-masters-community)
+- Provided foundational frameworks and best practices for AI-assisted development
+- Inspired the structured approach to documentation and project organization
+- Free resources that made this project possible
+
+## Development Assistance
+
+This project was built with help from:
+- **Claude AI** (Anthropic) - Architecture design, documentation, code review, and refactoring
+- **ChatGPT** (OpenAI) - Ideation, feature planning, and alternative approaches
+
+## Open Source Community
+
+Built on principles from:
+- Best practices in indie development and hackathon culture
+- Open source project management approaches
+- Community-driven framework design
+
+## Contributors
+
+Thanks to everyone who'll use Clew Forge and contribute back to make it better.
+
+---
+
+**Philosophy:** Where your reasoning threads become real artifacts.
+Built by makers, for makers. Ship something real. 🚀
+---
+
 *Last updated: October 2025*
 *Version: 1.1*
